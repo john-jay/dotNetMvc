@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotNetMvc", "dotNetMvc\dotNetMvc.csproj", "{79D4E928-F223-4F96-BFA3-8F74A48DFCED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotNetMvc.Tests", "dotNetMvc.Tests\dotNetMvc.Tests.csproj", "{BC2B99F6-8B88-473E-8AB3-1E3364DCC13D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79D4E928-F223-4F96-BFA3-8F74A48DFCED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D4E928-F223-4F96-BFA3-8F74A48DFCED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D4E928-F223-4F96-BFA3-8F74A48DFCED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D4E928-F223-4F96-BFA3-8F74A48DFCED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC2B99F6-8B88-473E-8AB3-1E3364DCC13D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2B99F6-8B88-473E-8AB3-1E3364DCC13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2B99F6-8B88-473E-8AB3-1E3364DCC13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2B99F6-8B88-473E-8AB3-1E3364DCC13D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
